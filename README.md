@@ -21,13 +21,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Images
 
-![Screenshot](public/inter.png)
+![image](public/inter2.PNG)
 
 
 
 
 
-![Screenshot](public/inter2.png)
 
 
 
